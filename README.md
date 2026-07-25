@@ -1,38 +1,72 @@
 # Kolliumadevi
 🤖 Personal GitHub Profile showcasing my Artificial Intelligence, Machine Learning projects, skills, certifications, and learning journey.
-## 🚀 Featured Projects
+## 👩‍💻 About Me
 
-### 📱 iPhone Sales Analysis Using Python
+🎓 B.Sc Artificial Intelligence Student at Sri Aditya Degree College, Bhimavaram
 
-🔹 Analyzed iPhone sales data to identify sales trends, customer preferences, and top-performing models.
+🤖 Passionate about Artificial Intelligence, Machine Learning and Data Analytics
 
-🔹 Performed data cleaning, preprocessing, and handling of missing values using Python.
+📊 Interested in Data Visualization, Business Intelligence and extracting insights from data
 
-🔹 Generated insights through graphical reports and data visualization.
+🐍 Skilled in Python programming and Machine Learning workflows
 
-**Technologies:**
-Python | Pandas | Matplotlib | Data Analysis
-
-
-### 🏠 House Price Prediction Using Machine Learning
-
-🔹 Developed a Machine Learning model to predict house prices based on location, area, bedrooms, and amenities.
-
-🔹 Performed data cleaning, preprocessing, and feature selection to improve prediction accuracy.
-
-🔹 Applied regression techniques and evaluated model performance.
-
-**Technologies:**
-Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
+🚀 Continuously learning and building innovative technology solutions
 
 
-### ₿ Bitcoin Price Prediction Using Machine Learning
+## 🛠️ Technical Skills
 
-🔹 Developed a predictive model using historical Bitcoin market data to estimate future closing prices.
+### 👨‍💻 Programming Languages
+- Python
+- Java
+- C
 
-🔹 Implemented data preprocessing and feature engineering techniques.
+### 🤖 AI & Data Science
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Pandas
+- NumPy
+- Scikit-learn
 
-🔹 Created a Streamlit-based web interface for user-friendly predictions.
+### 📊 Data Analytics Tools
+- Power BI
+- Advanced Excel
 
-**Technologies:**
-Python | Pandas | Scikit-learn | Streamlit | Joblib
+### 🧰 Tools
+- Jupyter Notebook
+- VS Code
+- GitHub
+- MS Office
+
+
+## 📜 Certifications
+
+🏅 MePro Pearson Advanced Communication Professional Skills
+
+🏅 Automation Anywhere Essentials Automation Professional
+
+🏅 Cisco Python Essentials 1 & 2
+
+🏅 CLA – Programming Essentials in C
+
+🏅 ULearn AI & ML
+
+🏅 Power BI Certification
+
+
+## 🏆 Achievements
+
+🥇 1st Prize – Aditya Abhyas CRT Tests
+
+🥈 2nd Prize – Poster Presentation on DeepSeek AI
+
+
+## 🌐 Connect With Me
+
+🔗 LinkedIn: linkedin.com/in/kolli-uma-devi-0574aa341
+
+📧 Email: kolliumadevi5@gmail.com
+
+
+⭐ Learning today, building intelligent solutions for tomorrow.
+
